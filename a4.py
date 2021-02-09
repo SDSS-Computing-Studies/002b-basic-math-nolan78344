@@ -1,4 +1,4 @@
 x = 5
 y = 2
-answer = (x * y)
+answer = (x / y)
 print(answer)
